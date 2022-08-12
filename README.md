@@ -1,6 +1,8 @@
-##Unity Junior Programmer Create with Code Lesson 1
+Unity Junior Programmer Create with Code Lesson 1
+=================================================
 
-#レッスン内容
+レッスン内容
+------------------------------------------------
 Unityエディタとワークフローに慣れる  
 新しいC#スクリプトの作成  
 簡単なプログラミングを行う方法の学習  
